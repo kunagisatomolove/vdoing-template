@@ -29,9 +29,9 @@ module.exports = [
       needComments: true,
       // 其他的 Vssue 配置
       autoCreateIssue: true,
-      clientId: "adb9fb0ac1159e00ce7f",
-      clientSecret: "27da8dc85f808c2bd1b6e44da5ae69c4ddf17d8d",
-      owner: "eryajf",
+      clientId: "Ov23liUjkZYkkK2UPax4",
+      clientSecret: "02e1e7c84509357562df1d3c60c40759cddd4554",
+      owner: "kunagisatomolove",
       repo: "vdoing-template",
     },
   ],
