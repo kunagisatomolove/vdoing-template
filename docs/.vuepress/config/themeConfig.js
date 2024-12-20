@@ -41,8 +41,8 @@ module.exports = {
   },
   author: {
     // 文章默认的作者信息，可在md文件中单独配置此信息 String | {name: String, link: String}
-    name: "二丫讲梵", // 必需
-    link: "https://github.com/eryajf", // 可选的
+    name: "王建", // 必需
+    link: "https://kunagisatomolove.github.io/vdoing-template", // 可选的
   },
   social: {
     // 社交图标，显示于博主信息栏和页脚栏
@@ -51,7 +51,7 @@ module.exports = {
       {
         iconClass: "icon-github",
         title: "GitHub",
-        link: "https://github.com/eryajf",
+        link: "https://kunagisatomolove.github.io/vdoing-template",
       },
       {
         iconClass: "icon-youjian",
@@ -61,7 +61,7 @@ module.exports = {
       {
         iconClass: "icon-gitee",
         title: "Gitee",
-        link: "https://gitee.com/eryajf",
+        link: "https://kunagisatomolove.github.io/vdoing-template",
       },
     ],
   },
